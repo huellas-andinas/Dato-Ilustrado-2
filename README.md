@@ -2,6 +2,8 @@
 
 ## Características de los vientos andinos 
 
+Por: [Gabriela Mancheno Domínguez](https://www.linkedin.com/in/gabriela-mancheno-644b23b0/) y [Gabriela Sandoval Moreno](https://www.linkedin.com/in/gabysandovalm/)
+
 Quien ha subido una montaña lo sabe: el viento puede cambiarlo todo. Hiela las manos, roba el aliento y a veces decide si se llega o no a la cumbre. En este Dato Ilustrado lo seguimos de cerca para responder algunas preguntas. ¿Sopla igual todo el año? ¿De dónde viene? ¿Pega más fuerte en unas montañas que en otras?
 
 Para explorar estas preguntas analizamos 26 años de información atmosférica, entre 2000 y 2025, utilizando el reanálisis meteorológico ERA5. A partir de estos datos estimamos el viento a la altitud de seis montañas de los Andes y la Sierra Nevada de Santa Marta, con el propósito de conocer sus condiciones habituales y cómo cambian a lo largo del año. 

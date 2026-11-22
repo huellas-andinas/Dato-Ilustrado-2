@@ -8,7 +8,7 @@ Para explorar estas preguntas analizamos 26 años de información atmosférica, 
 
 ### Nota metodológica
 
-Mira aquí la nota metodológica donde explica cómo se obtuvieron los datos, sus características y limitaciones
+Mira [aquí](https://github.com/huellas-andinas/Dato-Ilustrado-2/blob/main/El%20dato%20ilustrado%202%20Nota%20Metodol%C3%B3gica.pdf) la nota metodológica donde explica cómo se obtuvieron los datos, sus características y limitaciones
 
 ### Un poco de nuestro contenido:
 
